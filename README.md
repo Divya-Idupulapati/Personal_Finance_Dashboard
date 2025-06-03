@@ -1,79 +1,100 @@
-💰 Personal Finance Insights Dashboard
-End-to-End Personal Finance Analysis | Power BI • Budgeting • KPI Tracking • Financial Reporting
+# 💰 Personal Finance Insights Dashboard
 
-🔍 Project Summary
-Designed a comprehensive personal finance dashboard to track income, expenses, savings, and net worth over time. The project provides a centralized and visual representation of key financial metrics, enabling better financial planning, budgeting, and investment tracking. Demonstrates proficiency in KPI analysis, Power BI visualization, and financial reporting automation.
+**End-to-End Personal Finance Analysis**  
+**Power BI • Budgeting • KPI Tracking • Financial Reporting**
 
-💼 Personal Finance Challenge
-Managing multiple income sources, recurring expenses, and diverse savings instruments can become overwhelming without clear visibility. This project aims to consolidate and analyze all financial transactions into a single, user-friendly dashboard that supports goal-based savings and smart spending.
+---
 
-🎯 Project Objectives
-Visualize monthly and cumulative income, expenses, and savings
+## 🔍 Project Summary
 
-Track net worth growth and its drivers
+Designed a comprehensive personal finance dashboard to track **income**, **expenses**, **savings**, and **net worth** over time.  
+The project provides a centralized and visual representation of key financial metrics, enabling better financial planning, budgeting, and investment tracking.
 
-Compare actual vs target savings %
+🎯 **Skills Demonstrated:**  
+Power BI Visualization • KPI Analysis • Financial Reporting Automation • Data Modeling
 
-Monitor expense distribution across key spending categories
+---
 
-Analyze trends in expense %, savings %, and income changes over time
+## 💼 Personal Finance Challenge
 
-🧰 Tools & Technologies
-Tool / Technology	Purpose
-Power BI	Dashboard creation, KPI cards, visualizations, timeline filters
-Excel	Data entry, structuring, and basic transformation before import
+Managing multiple income sources, recurring expenses, and diverse savings instruments can become overwhelming without clear visibility.
 
-🔄 End-to-End Workflow
-Data Collection
+This project consolidates and analyzes all financial transactions into a **user-friendly dashboard** that supports **goal-based savings** and **smart spending**.
 
-Imported structured Excel sheets with monthly entries of income, expenses, and savings across categories.
+---
 
-Data Modeling
+## 🎯 Project Objectives
 
-Created relationships across income, expense, and savings tables. Applied measures and calculated fields in Power BI.
+- Visualize monthly and cumulative **income**, **expenses**, and **savings**
+- Track **net worth growth** and its drivers
+- Compare **actual vs target savings %**
+- Monitor **expense distribution** across key spending categories
+- Analyze trends in **expense %**, **savings %**, and **income** changes over time
 
-KPI Cards & Visuals
+---
 
-Designed KPI cards for Net Worth, Savings %, Expense %, and Income both for selected period and all time.
+## 🧰 Tools & Technologies
 
-Visualization Design
+| Tool / Technology | Purpose                                              |
+|-------------------|------------------------------------------------------|
+| **Power BI**      | Dashboard creation, KPI cards, visualizations        |
+| **Excel**         | Data entry, structuring, and transformation          |
 
-Used stacked bars, line graphs, and breakdown charts to show how money is spent and saved.
+---
 
-Timeline Analysis
+## 🔄 End-to-End Workflow
 
-Implemented year and month slicers to dynamically update visuals and highlight month-on-month trends.
+### 1. **Data Collection**
+- Structured Excel sheets with monthly entries of income, expenses, and savings
 
-📈 Key Financial Insights
-Achieved 17% savings rate and generated ₹99K in net worth for the year 2020
+### 2. **Data Modeling**
+- Built relationships across income, expense, and savings tables
+- Applied calculated columns, DAX measures, and time intelligence
 
-House Rent, EMIs, and Groceries accounted for over 80% of expenses
+### 3. **KPI Cards & Visuals**
+- Net Worth, Savings %, Expense %, and Income (current vs all-time)
 
-Majority of savings (86%) were allocated to mutual funds, indicating an aggressive investment approach
+### 4. **Visualization Design**
+- Stacked bar charts, line graphs, and category breakdowns
 
-Monthly analysis revealed consistent expense % and a gradual increase in savings alignment with goals
+### 5. **Timeline Analysis**
+- Implemented slicers for dynamic monthly/yearly trend updates
 
-Net worth increased by ₹325.5K all time, with long-term asset growth from savings and investments
+---
 
-📌 Recommendations for Personal Finance Strategy
-Reevaluate discretionary spending on shopping and leisure, which accounted for ~8% of annual expenses
+## 📈 Key Financial Insights
 
-Continue prioritizing mutual fund investments, but consider diversifying to low-risk options for balance
+- ✅ **17% savings rate** achieved and **₹99K net worth** generated in 2020  
+- 🏠 **House Rent, EMIs, and Groceries** made up **80%+ of expenses**  
+- 📊 **86% of savings** went into **mutual funds** — an aggressive investment strategy  
+- 📅 Monthly analysis revealed **consistent expense %** and improved savings alignment  
+- 📈 Total **net worth increased by ₹325.5K**, driven by long-term investments
 
-Aim to gradually increase the savings percentage toward the 30% benchmark for better financial stability
+---
 
-Use historical trends to anticipate high-expense months and plan budgets accordingly
+## 📌 Recommendations for Personal Finance Strategy
 
-💥 Impact
-Created a centralized view of financial health across time
+- 💡 Reevaluate **shopping and leisure** spending (~8% of total expenses)
+- 📈 Continue prioritizing mutual funds, but **diversify** into lower-risk options
+- 🎯 Aim to **increase savings rate** toward the **30% benchmark**
+- 🗓️ Use historical data to **forecast high-expense months** and budget proactively
 
-Enabled monthly budgeting and savings goal tracking
+---
 
-Improved personal financial literacy and data-driven decision-making
+## 💥 Impact
 
-Established a repeatable financial monitoring process with minimal manual effort
+- Centralized dashboard to monitor **financial health over time**
+- Enabled **goal-based monthly budgeting and savings tracking**
+- Improved **financial literacy** and **data-driven financial planning**
+- Established a **repeatable and scalable monitoring system**
 
-👩‍💻 Author
-[DIVYA IDUPULAPATI]
-📧 [idupulapatidivya@gmail.com]
-🔗 [https://www.linkedin.com/in/divyaidupulapati/]
+---
+
+## 👩‍💻 Author
+
+**Divya Idupulapati**  
+📧 [idupulapatidivya@gmail.com](mailto:idupulapatidivya@gmail.com)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/divyaidupulapati/)
+
+---
+
