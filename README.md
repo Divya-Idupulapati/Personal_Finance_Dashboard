@@ -1,21 +1,21 @@
-# 💰 Personal Finance Insights Dashboard
+# Personal Finance Insights Dashboard
 
 **End-to-End Personal Finance Analysis**  
 **Power BI • Budgeting • KPI Tracking • Financial Reporting**
 
 ---
 
-## 🔍 Project Summary
+##  Project Summary
 
 Designed a comprehensive personal finance dashboard to track **income**, **expenses**, **savings**, and **net worth** over time.  
 The project provides a centralized and visual representation of key financial metrics, enabling better financial planning, budgeting, and investment tracking.
 
-🎯 **Skills Demonstrated:**  
+**Skills Demonstrated:**  
 Power BI Visualization • KPI Analysis • Financial Reporting Automation • Data Modeling
 
 ---
 
-## 💼 Personal Finance Challenge
+## Personal Finance Challenge
 
 Managing multiple income sources, recurring expenses, and diverse savings instruments can become overwhelming without clear visibility.
 
@@ -23,7 +23,7 @@ This project consolidates and analyzes all financial transactions into a **user-
 
 ---
 
-## 🎯 Project Objectives
+## Project Objectives
 
 - Visualize monthly and cumulative **income**, **expenses**, and **savings**
 - Track **net worth growth** and its drivers
@@ -33,7 +33,7 @@ This project consolidates and analyzes all financial transactions into a **user-
 
 ---
 
-## 🧰 Tools & Technologies
+## Tools & Technologies
 
 | Tool / Technology | Purpose                                              |
 |-------------------|------------------------------------------------------|
@@ -42,7 +42,7 @@ This project consolidates and analyzes all financial transactions into a **user-
 
 ---
 
-## 🔄 End-to-End Workflow
+##  End-to-End Workflow
 
 ### 1. **Data Collection**
 - Structured Excel sheets with monthly entries of income, expenses, and savings
@@ -62,7 +62,7 @@ This project consolidates and analyzes all financial transactions into a **user-
 
 ---
 
-## 📈 Key Financial Insights
+##  Key Financial Insights
 
 - ✅ **17% savings rate** achieved and **₹99K net worth** generated in 2020  
 - 🏠 **House Rent, EMIs, and Groceries** made up **80%+ of expenses**  
@@ -72,7 +72,7 @@ This project consolidates and analyzes all financial transactions into a **user-
 
 ---
 
-## 📌 Recommendations for Personal Finance Strategy
+##  Recommendations for Personal Finance Strategy
 
 - 💡 Reevaluate **shopping and leisure** spending (~8% of total expenses)
 - 📈 Continue prioritizing mutual funds, but **diversify** into lower-risk options
@@ -81,7 +81,7 @@ This project consolidates and analyzes all financial transactions into a **user-
 
 ---
 
-## 💥 Impact
+##  Impact
 
 - Centralized dashboard to monitor **financial health over time**
 - Enabled **goal-based monthly budgeting and savings tracking**
@@ -90,7 +90,7 @@ This project consolidates and analyzes all financial transactions into a **user-
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Divya Idupulapati**  
 📧 [idupulapatidivya@gmail.com](mailto:idupulapatidivya@gmail.com)  
